@@ -1,0 +1,188 @@
+[1109/203849:INFO:(0)] WebCore is now online.
+[1109/203849:INFO:(0)] Running Awesomium 1.7.5.1
+[1109/203911:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: An error occurred invoking the method.  The destination thread no longer exists.
+   at System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   at Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   at Awesomium.Core.WebCore.ioXQMTP1sf()
+[1109/203911:WARNING:Awesomium.NET(0)] Awesomium.Core.AweInvalidOperationException: The calling thread cannot access this object because a different thread owns it.
+
+
+[1109/204037:INFO:(0)] WebCore is now online.
+[1109/204037:INFO:(0)] Running Awesomium 1.7.5.1
+[1109/204207:INFO:(0)] WebCore is now online.
+[1109/204207:INFO:(0)] Running Awesomium 1.7.5.1
+[1109/205606:INFO:(0)] WebCore is now online.
+[1109/205606:INFO:(0)] Running Awesomium 1.7.5.1
+[1109/205704:INFO:(0)] WebCore is now online.
+[1109/205704:INFO:(0)] Running Awesomium 1.7.5.1
+[1109/205851:INFO:(0)] WebCore is now online.
+[1109/205851:INFO:(0)] Running Awesomium 1.7.5.1
+[1109/210135:INFO:(0)] WebCore is now online.
+[1109/210135:INFO:(0)] Running Awesomium 1.7.5.1
+[1109/210144:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: An error occurred invoking the method.  The destination thread no longer exists.
+   at System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   at Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   at Awesomium.Core.WebCore.ioXQMTP1sf()
+[1109/210144:WARNING:Awesomium.NET(0)] Awesomium.Core.AweInvalidOperationException: The calling thread cannot access this object because a different thread owns it.
+
+
+[1109/210222:INFO:(0)] WebCore is now online.
+[1109/210222:INFO:(0)] Running Awesomium 1.7.5.1
+[1109/210229:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: An error occurred invoking the method.  The destination thread no longer exists.
+   at System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   at Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   at Awesomium.Core.WebCore.ioXQMTP1sf()
+[1109/210229:WARNING:Awesomium.NET(0)] Awesomium.Core.AweInvalidOperationException: The calling thread cannot access this object because a different thread owns it.
+
+
+[1109/210300:INFO:(0)] WebCore is now online.
+[1109/210300:INFO:(0)] Running Awesomium 1.7.5.1
+[1109/210306:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: An error occurred invoking the method.  The destination thread no longer exists.
+   at System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   at Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   at Awesomium.Core.WebCore.ioXQMTP1sf()
+[1109/210306:WARNING:Awesomium.NET(0)] Awesomium.Core.AweInvalidOperationException: The calling thread cannot access this object because a different thread owns it.
+
+
+[1109/210325:INFO:(0)] WebCore is now online.
+[1109/210325:INFO:(0)] Running Awesomium 1.7.5.1
+[1109/210332:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: An error occurred invoking the method.  The destination thread no longer exists.
+   at System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   at Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   at Awesomium.Core.WebCore.ioXQMTP1sf()
+[1109/210332:WARNING:Awesomium.NET(0)] Awesomium.Core.AweInvalidOperationException: The calling thread cannot access this object because a different thread owns it.
+
+
+[1109/210525:INFO:(0)] WebCore is now online.
+[1109/210525:INFO:(0)] Running Awesomium 1.7.5.1
+[1109/211021:INFO:(0)] WebCore is now online.
+[1109/211021:INFO:(0)] Running Awesomium 1.7.5.1
+[1109/211307:INFO:(0)] WebCore is now online.
+[1109/211307:INFO:(0)] Running Awesomium 1.7.5.1
+[1109/212342:INFO:(0)] WebCore is now online.
+[1109/212342:INFO:(0)] Running Awesomium 1.7.5.1
+[1109/212505:INFO:(0)] WebCore is now online.
+[1109/212505:INFO:(0)] Running Awesomium 1.7.5.1
+[1109/212521:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: An error occurred invoking the method.  The destination thread no longer exists.
+   at System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   at Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   at Awesomium.Core.WebCore.ioXQMTP1sf()
+[1109/212521:WARNING:Awesomium.NET(0)] Awesomium.Core.AweInvalidOperationException: The calling thread cannot access this object because a different thread owns it.
+
+
+[1109/212548:INFO:(0)] WebCore is now online.
+[1109/212548:INFO:(0)] Running Awesomium 1.7.5.1
+[1109/212634:INFO:(0)] WebCore is now online.
+[1109/212634:INFO:(0)] Running Awesomium 1.7.5.1
+[1109/213717:INFO:(0)] WebCore is now online.
+[1109/213717:INFO:(0)] Running Awesomium 1.7.5.1
+[1109/215214:INFO:(0)] WebCore is now online.
+[1109/215214:INFO:(0)] Running Awesomium 1.7.5.1
+[1109/223713:INFO:(0)] WebCore is now online.
+[1109/223713:INFO:(0)] Running Awesomium 1.7.5.1
+[1109/224027:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: An error occurred invoking the method.  The destination thread no longer exists.
+   at System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   at Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   at Awesomium.Core.WebCore.ioXQMTP1sf()
+[1109/224027:WARNING:Awesomium.NET(0)] Awesomium.Core.AweInvalidOperationException: The calling thread cannot access this object because a different thread owns it.
+
+
+[1109/224212:INFO:(0)] WebCore is now online.
+[1109/224212:INFO:(0)] Running Awesomium 1.7.5.1
+[1109/225708:INFO:(0)] WebCore is now online.
+[1109/225708:INFO:(0)] Running Awesomium 1.7.5.1
+[1109/230030:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: An error occurred invoking the method.  The destination thread no longer exists.
+   at System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   at Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   at Awesomium.Core.WebCore.ioXQMTP1sf()
+[1109/230030:WARNING:Awesomium.NET(0)] Awesomium.Core.AweInvalidOperationException: The calling thread cannot access this object because a different thread owns it.
+
+
+[1109/233935:INFO:(0)] WebCore is now online.
+[1109/233935:INFO:(0)] Running Awesomium 1.7.5.1
+[1109/234609:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: An error occurred invoking the method.  The destination thread no longer exists.
+   at System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   at Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   at Awesomium.Core.WebCore.ioXQMTP1sf()
+[1109/234609:WARNING:Awesomium.NET(0)] Awesomium.Core.AweInvalidOperationException: The calling thread cannot access this object because a different thread owns it.
+
+
+[1109/234856:INFO:(0)] WebCore is now online.
+[1109/234856:INFO:(0)] Running Awesomium 1.7.5.1
+[1109/235013:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: An error occurred invoking the method.  The destination thread no longer exists.
+   at System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   at Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   at Awesomium.Core.WebCore.ioXQMTP1sf()
+[1109/235013:WARNING:Awesomium.NET(0)] Awesomium.Core.AweInvalidOperationException: The calling thread cannot access this object because a different thread owns it.
+
+
+[1109/235529:INFO:(0)] WebCore is now online.
+[1109/235529:INFO:(0)] Running Awesomium 1.7.5.1
+[1110/160819:INFO:(0)] WebCore is now online.
+[1110/160819:INFO:(0)] Running Awesomium 1.7.5.1
+[1110/160937:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: An error occurred invoking the method.  The destination thread no longer exists.
+   at System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   at Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   at Awesomium.Core.WebCore.ioXQMTP1sf()
+[1110/160937:WARNING:Awesomium.NET(0)] Awesomium.Core.AweInvalidOperationException: The calling thread cannot access this object because a different thread owns it.
+
+
+[1110/160952:INFO:(0)] WebCore is now online.
+[1110/160952:INFO:(0)] Running Awesomium 1.7.5.1
+[1110/161657:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: An error occurred invoking the method.  The destination thread no longer exists.
+   at System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   at Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   at Awesomium.Core.WebCore.ioXQMTP1sf()
+[1110/161657:WARNING:Awesomium.NET(0)] Awesomium.Core.AweInvalidOperationException: The calling thread cannot access this object because a different thread owns it.
+
+
+[1110/161803:INFO:(0)] WebCore is now online.
+[1110/161803:INFO:(0)] Running Awesomium 1.7.5.1
+[1110/162831:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: An error occurred invoking the method.  The destination thread no longer exists.
+   at System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   at Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   at Awesomium.Core.WebCore.ioXQMTP1sf()
+[1110/162831:WARNING:Awesomium.NET(0)] Awesomium.Core.AweInvalidOperationException: The calling thread cannot access this object because a different thread owns it.
+
+
+[1110/163031:INFO:(0)] WebCore is now online.
+[1110/163031:INFO:(0)] Running Awesomium 1.7.5.1
+[1110/165355:INFO:(0)] WebCore is now online.
+[1110/165355:INFO:(0)] Running Awesomium 1.7.5.1
+[1110/165432:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: An error occurred invoking the method.  The destination thread no longer exists.
+   at System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   at Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   at Awesomium.Core.WebCore.ioXQMTP1sf()
+[1110/165432:WARNING:Awesomium.NET(0)] Awesomium.Core.AweInvalidOperationException: The calling thread cannot access this object because a different thread owns it.
+
+
+[1110/165705:INFO:(0)] WebCore is now online.
+[1110/165705:INFO:(0)] Running Awesomium 1.7.5.1
+[1110/192625:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: An error occurred invoking the method.  The destination thread no longer exists.
+   at System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   at Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   at Awesomium.Core.WebCore.ioXQMTP1sf()
+[1110/192626:WARNING:Awesomium.NET(0)] Awesomium.Core.AweInvalidOperationException: The calling thread cannot access this object because a different thread owns it.
+
+
+[1110/195400:INFO:(0)] WebCore is now online.
+[1110/195400:INFO:(0)] Running Awesomium 1.7.5.1
+[1111/122306:INFO:(0)] WebCore is now online.
+[1111/122306:INFO:(0)] Running Awesomium 1.7.5.1
+[1111/122545:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: An error occurred invoking the method.  The destination thread no longer exists.
+   at System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   at Awesomium.Core.WebCore.wvjjlbeQdqUVO5E6FXD(Object , Object , Object )
+   at Awesomium.Core.WebCore.ioXQMTP1sf()
+[1111/122545:WARNING:Awesomium.NET(0)] Awesomium.Core.AweInvalidOperationException: The calling thread cannot access this object because a different thread owns it.
+
+
+[1111/123626:INFO:(0)] WebCore is now online.
+[1111/123626:INFO:(0)] Running Awesomium 1.7.5.1
+[1111/124127:INFO:(0)] WebCore is now online.
+[1111/124127:INFO:(0)] Running Awesomium 1.7.5.1
+[1111/222959:INFO:(0)] WebCore is now online.
+[1111/222959:INFO:(0)] Running Awesomium 1.7.5.1
+[1111/230551:INFO:(0)] WebCore is now online.
+[1111/230551:INFO:(0)] Running Awesomium 1.7.5.1
+[1111/234052:INFO:(0)] WebCore is now online.
+[1111/234052:INFO:(0)] Running Awesomium 1.7.5.1
